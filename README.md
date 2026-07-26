@@ -23,7 +23,9 @@ Command flags:
   -t refresh time in seconds
  
 
-
+#
+#
+#
 Generated target lists in:
   passive_report/targets.txt --- targets_ipv4.txt --- targets_ipv6.txt
 
@@ -38,7 +40,9 @@ Nmap service scan:
 
 Masscan:
   sudo masscan -iL passive_report/targets_ipv4.txt -p1-65535 --rate 1000
-
+#
+#
+#
 Important:
   The target files contain only hosts observed passively by the monitor.
   One IP address is written per line.

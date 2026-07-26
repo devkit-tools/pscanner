@@ -8,7 +8,9 @@ python3 -m pip install scapy
 
 python3 -m pip install manuf#
 command
-
+#
+#
+#
 sudo python3 pscanner.py -i en0 -t 5
 
 

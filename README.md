@@ -12,13 +12,11 @@ Command flags:
  
 
 
-Generated target lists:
-  passive_report/targets.txt
-  passive_report/targets_ipv4.txt
-  passive_report/targets_ipv6.txt
+Generated target lists in:
+  passive_report/targets.txt --- targets_ipv4.txt --- targets_ipv6.txt
 
 
-Examples:
+Examples for futher scans:
 
 Nmap:
   nmap -iL passive_report/targets_ipv4.txt

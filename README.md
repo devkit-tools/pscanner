@@ -1,11 +1,9 @@
 PASSIVE NETWORK SENSOR — TARGET LIST EXPORT
-.
-.
-.
+
 Start:
-.
+
   sudo python3 pscanner.py -i en0 -t 5
-.
+
 
 
 Command flags:

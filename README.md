@@ -1,8 +1,11 @@
 PASSIVE NETWORK SENSOR — TARGET LIST EXPORT
+#
+#
+#
 REQUIRED Python libs are
 #
-#
 python3 -m pip install scapy
+#
 python3 -m pip install manuf
 #
 #
